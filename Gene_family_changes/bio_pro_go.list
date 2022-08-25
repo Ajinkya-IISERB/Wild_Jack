@@ -1,0 +1,107 @@
+GO:0006082	organic acid metabolic process	1
+GO:0006091	generation of precursor metabolites and energy	1
+GO:0006139	nucleobase-containing compound metabolic process	1
+GO:0006396	RNA processing	1
+GO:0006725	cellular aromatic compound metabolic process	2
+GO:0006793	phosphorus metabolic process	1
+GO:0006807	nitrogen compound metabolic process	3
+GO:0006810	transport	1
+GO:0006811	ion transport	1
+GO:0006818	hydrogen transport	1
+GO:0008150	biological_process	5
+GO:0008152	metabolic process	4
+GO:0009116	nucleoside metabolic process	1
+GO:0009117	nucleotide metabolic process	1
+GO:0009987	cellular process	4
+GO:0015979	photosynthesis	1
+GO:0016043	cellular component organization	1
+GO:0016070	RNA metabolic process	1
+GO:0016192	vesicle-mediated transport	1
+GO:0032502	developmental process	1
+GO:0034622	cellular macromolecular complex assembly	1
+GO:0043170	macromolecule metabolic process	1
+GO:0044237	cellular metabolic process	3
+GO:0044238	primary metabolic process	2
+GO:0046483	heterocycle metabolic process	2
+GO:0051234	establishment of localization	1
+GO:0065003	macromolecular complex assembly	1
+GO:0006629	lipid metabolic process	1
+GO:0006810	transport	1
+GO:0006996	organelle organization	1
+GO:0007005	mitochondrion organization	1
+GO:0008150	biological_process	4
+GO:0008152	metabolic process	1
+GO:0009987	cellular process	1
+GO:0015031	protein transport	1
+GO:0016043	cellular component organization	1
+GO:0016192	vesicle-mediated transport	1
+GO:0050896	response to stimulus	2
+GO:0051179	localization	1
+GO:0051234	establishment of localization	1
+GO:0051641	cellular localization	1
+GO:0051704	multi-organism process	1
+GO:0071555	cell wall organization	1
+GO:0000003	reproduction	8
+GO:0000280	nuclear division	1
+GO:0002376	immune system process	4
+GO:0005975	carbohydrate metabolic process	6
+GO:0005976	polysaccharide metabolic process	3
+GO:0006066	alcohol metabolic process	1
+GO:0006082	organic acid metabolic process	1
+GO:0006139	nucleobase-containing compound metabolic process	5
+GO:0006281	DNA repair	1
+GO:0006396	RNA processing	3
+GO:0006412	translation	3
+GO:0006464	cellular protein modification process	2
+GO:0006508	proteolysis	4
+GO:0006518	peptide metabolic process	1
+GO:0006629	lipid metabolic process	8
+GO:0006725	cellular aromatic compound metabolic process	5
+GO:0006793	phosphorus metabolic process	4
+GO:0006807	nitrogen compound metabolic process	8
+GO:0006810	transport	4
+GO:0006811	ion transport	2
+GO:0006818	hydrogen transport	1
+GO:0006996	organelle organization	1
+GO:0007049	cell cycle	1
+GO:0007154	cell communication	10
+GO:0008037	cell recognition	4
+GO:0008150	biological_process	56
+GO:0008152	metabolic process	35
+GO:0009116	nucleoside metabolic process	1
+GO:0009117	nucleotide metabolic process	2
+GO:0009308	amine metabolic process	1
+GO:0009657	plastid organization	1
+GO:0009987	cellular process	17
+GO:0015031	protein transport	1
+GO:0015074	DNA integration	1
+GO:0015833	peptide transport	1
+GO:0016032	viral process	1
+GO:0016043	cellular component organization	1
+GO:0016070	RNA metabolic process	9
+GO:0016192	vesicle-mediated transport	1
+GO:0019538	protein metabolic process	5
+GO:0019748	secondary metabolic process	1
+GO:0031640	killing of cells of other organism	1
+GO:0032501	multicellular organismal process	9
+GO:0032502	developmental process	8
+GO:0032989	cellular component morphogenesis	1
+GO:0042180	cellular ketone metabolic process	1
+GO:0042440	pigment metabolic process	2
+GO:0042445	hormone metabolic process	1
+GO:0043170	macromolecule metabolic process	14
+GO:0043412	macromolecule modification	5
+GO:0043603	cellular amide metabolic process	1
+GO:0044237	cellular metabolic process	21
+GO:0044238	primary metabolic process	10
+GO:0044255	cellular lipid metabolic process	4
+GO:0044419	interspecies interaction between organisms	1
+GO:0046483	heterocycle metabolic process	5
+GO:0050896	response to stimulus	28
+GO:0051179	localization	1
+GO:0051186	cofactor metabolic process	2
+GO:0051234	establishment of localization	5
+GO:0051640	organelle localization	1
+GO:0051641	cellular localization	1
+GO:0051704	multi-organism process	10
+GO:0065007	biological regulation	8

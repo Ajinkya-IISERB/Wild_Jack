@@ -1,0 +1,468 @@
+# cluster_name	protein_number	swiss_prot_id	go_annotation	protein_list
+cluster14999	8	N/A	N/A	Fragraria_vesca|Fraves26523;Artocaprus_hirsutus|Arthir20402;Artocaprus_hirsutus|Arthir43134;Fragraria_vesca|Fraves21668;Fragraria_vesca|Fraves15278;Fragraria_vesca|Fraves16662;Fragraria_vesca|Fraves18310;Fragraria_vesca|Fraves3696
+cluster18173	5	Q9LVA1	GO:0048759; P:xylem vessel member cell differentiation; IMP:UniProtKB	Fragraria_vesca|Fraves17127;Fragraria_vesca|Fraves17121;Artocaprus_hirsutus|Arthir10828;Artocaprus_hirsutus|Arthir24064;Artocaprus_hirsutus|Arthir10827
+cluster19225	4	N/A	N/A	Fragraria_vesca|Fraves23041;Artocaprus_hirsutus|Arthir26697;Fragraria_vesca|Fraves27554;Fragraria_vesca|Fraves4858
+cluster19589	4	Q5IBC5	GO:0016192; P:vesicle-mediated transport; IMP:TAIR	Fragraria_vesca|Fraves18504;Fragraria_vesca|Fraves18503;Fragraria_vesca|Fraves18505;Artocaprus_hirsutus|Arthir23516
+cluster21365	3	N/A	N/A	Fragraria_vesca|Fraves6132;Fragraria_vesca|Fraves25043;Artocaprus_hirsutus|Arthir33353
+cluster22695	3	N/A	N/A	Fragraria_vesca|Fraves13584;Fragraria_vesca|Fraves24680;Artocaprus_hirsutus|Arthir6819
+cluster22813	3	N/A	N/A	Fragraria_vesca|Fraves22805;Artocaprus_hirsutus|Arthir37700;Artocaprus_hirsutus|Arthir26258
+cluster22814	3	N/A	N/A	Fragraria_vesca|Fraves3783;Artocaprus_hirsutus|Arthir3348;Artocaprus_hirsutus|Arthir11523
+cluster22899	3	Q9LPR4	GO:0009098; P:leucine biosynthetic process; IDA:TAIR	Fragraria_vesca|Fraves2137;Artocaprus_hirsutus|Arthir24216;Artocaprus_hirsutus|Arthir28290
+cluster22901	3	F4I8U3	GO:0003677; F:DNA binding; IEA:UniProtKB-KW	Fragraria_vesca|Fraves26946;Artocaprus_hirsutus|Arthir5657;Artocaprus_hirsutus|Arthir13930
+cluster28435	2	Q8GWQ6	GO:0008380; P:RNA splicing; IEA:UniProtKB-KW	Fragraria_vesca|Fraves26237;Artocaprus_hirsutus|Arthir44607
+cluster28445	2	Q7SYK1	GO:0101030; P:tRNA-guanine transglycosylation; IEA:UniProtKB-UniRule	Fragraria_vesca|Fraves17847;Artocaprus_hirsutus|Arthir13984
+cluster28446	2	N/A	N/A	Fragraria_vesca|Fraves4142;Artocaprus_hirsutus|Arthir1446
+cluster28456	2	Q09WW6	GO:0019684; P:photosynthesis, light reaction; IEA:UniProtKB-UniRule	Fragraria_vesca|Fraves31376;Artocaprus_hirsutus|Arthir38219
+cluster28494	2	N/A	N/A	Fragraria_vesca|Fraves4085;Artocaprus_hirsutus|Arthir12189
+cluster28523	2	Q9STK7	GO:0016709; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen; IBA:GO_Central	Fragraria_vesca|Fraves26741;Artocaprus_hirsutus|Arthir2294
+cluster28524	2	N/A	N/A	Fragraria_vesca|Fraves7607;Artocaprus_hirsutus|Arthir29535
+cluster28530	2	Q4FGF2	GO:0015986; P:ATP synthesis coupled proton transport; IEA:InterPro	Fragraria_vesca|Fraves31311;Artocaprus_hirsutus|Arthir39797
+cluster28554	2	N/A	N/A	Fragraria_vesca|Fraves14327;Artocaprus_hirsutus|Arthir9288
+cluster28559	2	O49394	GO:0042343; P:indole glucosinolate metabolic process; IBA:GO_Central	Fragraria_vesca|Fraves8093;Artocaprus_hirsutus|Arthir36689
+cluster28572	2	Q7Z5U6	N/A	Fragraria_vesca|Fraves1004;Artocaprus_hirsutus|Arthir18668
+cluster28584	2	N/A	N/A	Fragraria_vesca|Fraves8310;Artocaprus_hirsutus|Arthir6741
+cluster28586	2	O49726	GO:0005215; F:transporter activity; IEA:InterPro	Fragraria_vesca|Fraves8701;Artocaprus_hirsutus|Arthir35573
+cluster28634	2	Q09WW9	GO:0017004; P:cytochrome complex assembly; IEA:UniProtKB-UniRule	Fragraria_vesca|Fraves31373;Artocaprus_hirsutus|Arthir29962
+# cluster_name	protein_number	swiss_prot_id	go_annotation	protein_list
+cluster1752	19	Q9FT50	N/A	Malus_domestica|Maldom49931;Malus_domestica|Maldom49906;Malus_domestica|Maldom49916;Malus_domestica|Maldom49935;Malus_domestica|Maldom51192;Artocaprus_hirsutus|Arthir17617;Malus_domestica|Maldom49898;Malus_domestica|Maldom49908;Malus_domestica|Maldom49896;Malus_domestica|Maldom49900;Malus_domestica|Maldom49937;Malus_domestica|Maldom49941;Malus_domestica|Maldom49897;Malus_domestica|Maldom49907;Malus_domestica|Maldom49913;Malus_domestica|Maldom49914;Malus_domestica|Maldom49938;Malus_domestica|Maldom49939;Malus_domestica|Maldom49899
+cluster3601	15	Q9LPX2	GO:0005739; C:mitochondrion; IBA:GO_Central	Malus_domestica|Maldom6604;Malus_domestica|Maldom6547;Malus_domestica|Maldom6577;Artocaprus_hirsutus|Arthir12701;Malus_domestica|Maldom6616;Malus_domestica|Maldom30294;Malus_domestica|Maldom30245;Malus_domestica|Maldom30246;Malus_domestica|Maldom30269;Malus_domestica|Maldom30272;Malus_domestica|Maldom30273;Malus_domestica|Maldom30309;Malus_domestica|Maldom30310;Malus_domestica|Maldom6606;Malus_domestica|Maldom6605
+cluster15658	8	N/A	N/A	Malus_domestica|Maldom20986;Malus_domestica|Maldom20990;Malus_domestica|Maldom20933;Malus_domestica|Maldom20957;Malus_domestica|Maldom20988;Malus_domestica|Maldom6265;Malus_domestica|Maldom29625;Artocaprus_hirsutus|Arthir20691
+cluster17459	6	Q9FHF0	GO:0042742; P:defense response to bacterium; IMP:UniProtKB	Malus_domestica|Maldom8832;Malus_domestica|Maldom10353;Malus_domestica|Maldom12275;Malus_domestica|Maldom26789;Artocaprus_hirsutus|Arthir22923;Malus_domestica|Maldom26783
+cluster18349	5	N/A	N/A	Malus_domestica|Maldom1124;Malus_domestica|Maldom1125;Malus_domestica|Maldom1126;Malus_domestica|Maldom1127;Artocaprus_hirsutus|Arthir6595
+cluster19922	4	N/A	N/A	Artocaprus_hirsutus|Arthir13261;Artocaprus_hirsutus|Arthir24931;Artocaprus_hirsutus|Arthir24932;Malus_domestica|Maldom52006
+cluster21413	3	P0CB23	N/A	Artocaprus_hirsutus|Arthir39812;Malus_domestica|Maldom11329;Malus_domestica|Maldom11328
+cluster21630	3	P51823	GO:0016192; P:vesicle-mediated transport; IEP:Gramene	Artocaprus_hirsutus|Arthir14362;Malus_domestica|Maldom45605;Malus_domestica|Maldom35747
+cluster23028	3	N/A	N/A	Malus_domestica|Maldom13366;Malus_domestica|Maldom13367;Artocaprus_hirsutus|Arthir23780
+cluster23043	3	A1L4X0	GO:0046686; P:response to cadmium ion; IMP:TAIR	Malus_domestica|Maldom21935;Malus_domestica|Maldom21936;Artocaprus_hirsutus|Arthir30527
+cluster23198	3	N/A	N/A	Malus_domestica|Maldom19983;Malus_domestica|Maldom19982;Artocaprus_hirsutus|Arthir17168
+cluster29339	2	Q9FUL4	GO:0005840; C:ribosome; IEA:UniProtKB-KW	Malus_domestica|Maldom9161;Artocaprus_hirsutus|Arthir38712
+cluster29587	2	Q9ZW33	GO:0045039; P:protein import into mitochondrial inner membrane; IBA:GO_Central	Malus_domestica|Maldom45956;Artocaprus_hirsutus|Arthir16934
+cluster29588	2	Q05967	GO:0071555; P:cell wall organization; IEA:UniProtKB-KW	Malus_domestica|Maldom7486;Artocaprus_hirsutus|Arthir27141
+cluster29589	2	Q9M2A1	GO:0009507; C:chloroplast; IDA:TAIR	Malus_domestica|Maldom37108;Artocaprus_hirsutus|Arthir41033
+cluster29737	2	P0DKC5	GO:0006694; P:steroid biosynthetic process; IEA:UniProtKB-KW	Malus_domestica|Maldom38971;Artocaprus_hirsutus|Arthir30488
+cluster29738	2	N/A	N/A	Malus_domestica|Maldom4430;Artocaprus_hirsutus|Arthir12586
+cluster30108	2	Q9SVC4	GO:0031359; C:integral component of chloroplast outer membrane; IDA:TAIR	Artocaprus_hirsutus|Arthir11400;Malus_domestica|Maldom8133
+# cluster_name	protein_number	swiss_prot_id	go_annotation	protein_list
+cluster3170	16	N/A	N/A	Artocaprus_hirsutus|Arthir33345;Artocaprus_hirsutus|Arthir28872;Artocaprus_hirsutus|Arthir43627;Artocaprus_hirsutus|Arthir1075;Artocaprus_hirsutus|Arthir18541;Artocaprus_hirsutus|Arthir44110;Artocaprus_hirsutus|Arthir1077;Artocaprus_hirsutus|Arthir13590;Artocaprus_hirsutus|Arthir15177;Artocaprus_hirsutus|Arthir43556;Artocaprus_hirsutus|Arthir8161;Artocaprus_hirsutus|Arthir13143;Artocaprus_hirsutus|Arthir39814;Artocaprus_hirsutus|Arthir7267;Artocaprus_hirsutus|Arthir42087;Artocaprus_hirsutus|Arthir29175
+cluster15666	8	N/A	N/A	Artocaprus_hirsutus|Arthir4376;Artocaprus_hirsutus|Arthir10215;Artocaprus_hirsutus|Arthir11764;Artocaprus_hirsutus|Arthir18445;Artocaprus_hirsutus|Arthir31742;Artocaprus_hirsutus|Arthir35937;Artocaprus_hirsutus|Arthir41654;Artocaprus_hirsutus|Arthir45308
+cluster16608	7	N/A	N/A	Artocaprus_hirsutus|Arthir17288;Artocaprus_hirsutus|Arthir40993;Artocaprus_hirsutus|Arthir356;Artocaprus_hirsutus|Arthir17286;Artocaprus_hirsutus|Arthir40992;Artocaprus_hirsutus|Arthir17287;Artocaprus_hirsutus|Arthir40991
+cluster16609	7	N/A	N/A	Artocaprus_hirsutus|Arthir15998;Artocaprus_hirsutus|Arthir15997;Artocaprus_hirsutus|Arthir16000;Artocaprus_hirsutus|Arthir24016;Artocaprus_hirsutus|Arthir8237;Artocaprus_hirsutus|Arthir41786;Artocaprus_hirsutus|Arthir16001
+cluster16610	7	N/A	N/A	Artocaprus_hirsutus|Arthir38094;Artocaprus_hirsutus|Arthir40892;Artocaprus_hirsutus|Arthir18393;Artocaprus_hirsutus|Arthir14781;Artocaprus_hirsutus|Arthir18524;Artocaprus_hirsutus|Arthir33705;Artocaprus_hirsutus|Arthir13557
+cluster17463	6	N/A	N/A	Artocaprus_hirsutus|Arthir38365;Artocaprus_hirsutus|Arthir12372;Artocaprus_hirsutus|Arthir314;Artocaprus_hirsutus|Arthir402;Artocaprus_hirsutus|Arthir12371;Artocaprus_hirsutus|Arthir315
+cluster18398	5	N/A	N/A	Artocaprus_hirsutus|Arthir15320;Artocaprus_hirsutus|Arthir14177;Artocaprus_hirsutus|Arthir3235;Artocaprus_hirsutus|Arthir7562;Artocaprus_hirsutus|Arthir7830
+cluster18399	5	Q9SQ64	GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir36029;Artocaprus_hirsutus|Arthir12464;Artocaprus_hirsutus|Arthir26948;Artocaprus_hirsutus|Arthir33749;Artocaprus_hirsutus|Arthir6313
+cluster18400	5	Q9C7V5	GO:0009451; P:RNA modification; IBA:GO_Central	Artocaprus_hirsutus|Arthir40562;Artocaprus_hirsutus|Arthir19619;Artocaprus_hirsutus|Arthir25195;Artocaprus_hirsutus|Arthir38057;Artocaprus_hirsutus|Arthir41449
+cluster18401	5	N/A	N/A	Artocaprus_hirsutus|Arthir42231;Artocaprus_hirsutus|Arthir11593;Artocaprus_hirsutus|Arthir3668;Artocaprus_hirsutus|Arthir41351;Artocaprus_hirsutus|Arthir33711
+cluster19920	4	N/A	N/A	Artocaprus_hirsutus|Arthir26509;Artocaprus_hirsutus|Arthir10761;Artocaprus_hirsutus|Arthir22903;Artocaprus_hirsutus|Arthir4849
+cluster19921	4	N/A	N/A	Artocaprus_hirsutus|Arthir20725;Artocaprus_hirsutus|Arthir20723;Artocaprus_hirsutus|Arthir17703;Artocaprus_hirsutus|Arthir24821
+cluster19923	4	N/A	N/A	Artocaprus_hirsutus|Arthir24578;Artocaprus_hirsutus|Arthir14159;Artocaprus_hirsutus|Arthir32506;Artocaprus_hirsutus|Arthir40061
+cluster19924	4	N/A	N/A	Artocaprus_hirsutus|Arthir8851;Artocaprus_hirsutus|Arthir11336;Artocaprus_hirsutus|Arthir33332;Artocaprus_hirsutus|Arthir20643
+cluster19925	4	N/A	N/A	Artocaprus_hirsutus|Arthir15375;Artocaprus_hirsutus|Arthir44190;Artocaprus_hirsutus|Arthir6729;Artocaprus_hirsutus|Arthir44189
+cluster19927	4	N/A	N/A	Artocaprus_hirsutus|Arthir8911;Artocaprus_hirsutus|Arthir19648;Artocaprus_hirsutus|Arthir2625;Artocaprus_hirsutus|Arthir32534
+cluster19928	4	N/A	N/A	Artocaprus_hirsutus|Arthir20810;Artocaprus_hirsutus|Arthir33104;Artocaprus_hirsutus|Arthir36316;Artocaprus_hirsutus|Arthir6082
+cluster19929	4	Q0WPR4	GO:0051603; P:proteolysis involved in cellular protein catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir43155;Artocaprus_hirsutus|Arthir36847;Artocaprus_hirsutus|Arthir17634;Artocaprus_hirsutus|Arthir11936
+cluster19930	4	N/A	N/A	Artocaprus_hirsutus|Arthir37575;Artocaprus_hirsutus|Arthir34824;Artocaprus_hirsutus|Arthir22376;Artocaprus_hirsutus|Arthir15426
+cluster23283	3	N/A	N/A	Artocaprus_hirsutus|Arthir20134;Artocaprus_hirsutus|Arthir10576;Artocaprus_hirsutus|Arthir13551
+cluster23284	3	Q9C7D6	GO:0019748; P:secondary metabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir42915;Artocaprus_hirsutus|Arthir12763;Artocaprus_hirsutus|Arthir30027
+cluster23285	3	N/A	N/A	Artocaprus_hirsutus|Arthir18260;Artocaprus_hirsutus|Arthir21565;Artocaprus_hirsutus|Arthir27269
+cluster23286	3	Q9SF78	GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir16236;Artocaprus_hirsutus|Arthir29568;Artocaprus_hirsutus|Arthir31274
+cluster23287	3	Q40392	GO:0007165; P:signal transduction; IEA:InterPro	Artocaprus_hirsutus|Arthir17802;Artocaprus_hirsutus|Arthir20329;Artocaprus_hirsutus|Arthir7700
+cluster23288	3	N/A	N/A	Artocaprus_hirsutus|Arthir41388;Artocaprus_hirsutus|Arthir16413;Artocaprus_hirsutus|Arthir36858
+cluster23289	3	Q9CA40	GO:0006203; P:dGTP catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir27228;Artocaprus_hirsutus|Arthir45477;Artocaprus_hirsutus|Arthir30018
+cluster23290	3	N/A	N/A	Artocaprus_hirsutus|Arthir22946;Artocaprus_hirsutus|Arthir31179;Artocaprus_hirsutus|Arthir22945
+cluster23291	3	Q9C6A1	GO:0000394; P:RNA splicing, via endonucleolytic cleavage and ligation; IMP:TAIR	Artocaprus_hirsutus|Arthir36315;Artocaprus_hirsutus|Arthir20806;Artocaprus_hirsutus|Arthir33102
+cluster23292	3	P19873	GO:0009611; P:response to wounding; IEA:InterPro	Artocaprus_hirsutus|Arthir43723;Artocaprus_hirsutus|Arthir12156;Artocaprus_hirsutus|Arthir45276
+cluster23293	3	N/A	N/A	Artocaprus_hirsutus|Arthir26022;Artocaprus_hirsutus|Arthir21688;Artocaprus_hirsutus|Arthir28982
+cluster23294	3	N/A	N/A	Artocaprus_hirsutus|Arthir5777;Artocaprus_hirsutus|Arthir32091;Artocaprus_hirsutus|Arthir1221
+cluster23295	3	N/A	N/A	Artocaprus_hirsutus|Arthir36681;Artocaprus_hirsutus|Arthir11449;Artocaprus_hirsutus|Arthir18473
+cluster23296	3	N/A	N/A	Artocaprus_hirsutus|Arthir37405;Artocaprus_hirsutus|Arthir10977;Artocaprus_hirsutus|Arthir37403
+cluster23297	3	N/A	N/A	Artocaprus_hirsutus|Arthir698;Artocaprus_hirsutus|Arthir11911;Artocaprus_hirsutus|Arthir26915
+cluster23298	3	N/A	N/A	Artocaprus_hirsutus|Arthir41221;Artocaprus_hirsutus|Arthir34419;Artocaprus_hirsutus|Arthir41800
+cluster23299	3	O64477	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir4293;Artocaprus_hirsutus|Arthir40575;Artocaprus_hirsutus|Arthir4296
+cluster23300	3	N/A	N/A	Artocaprus_hirsutus|Arthir26363;Artocaprus_hirsutus|Arthir26819;Artocaprus_hirsutus|Arthir45220
+cluster23301	3	N/A	N/A	Artocaprus_hirsutus|Arthir15176;Artocaprus_hirsutus|Arthir428;Artocaprus_hirsutus|Arthir28873
+cluster23302	3	Q8IW17	GO:0000398; P:mRNA splicing, via spliceosome; IDA:UniProtKB	Artocaprus_hirsutus|Arthir19921;Artocaprus_hirsutus|Arthir10719;Artocaprus_hirsutus|Arthir5439
+cluster23303	3	Q9M9X0	GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell	Artocaprus_hirsutus|Arthir34129;Artocaprus_hirsutus|Arthir41458;Artocaprus_hirsutus|Arthir34127
+cluster23304	3	N/A	N/A	Artocaprus_hirsutus|Arthir4069;Artocaprus_hirsutus|Arthir4068;Artocaprus_hirsutus|Arthir7945
+cluster23305	3	N/A	N/A	Artocaprus_hirsutus|Arthir22932;Artocaprus_hirsutus|Arthir43878;Artocaprus_hirsutus|Arthir36630
+cluster23306	3	N/A	N/A	Artocaprus_hirsutus|Arthir30711;Artocaprus_hirsutus|Arthir5547;Artocaprus_hirsutus|Arthir3638
+cluster23307	3	P40480	GO:0045835; P:negative regulation of meiotic nuclear division; IPI:SGD	Artocaprus_hirsutus|Arthir19166;Artocaprus_hirsutus|Arthir18893;Artocaprus_hirsutus|Arthir10876
+cluster23308	3	N/A	N/A	Artocaprus_hirsutus|Arthir32353;Artocaprus_hirsutus|Arthir21755;Artocaprus_hirsutus|Arthir24981
+cluster23309	3	N/A	N/A	Artocaprus_hirsutus|Arthir20436;Artocaprus_hirsutus|Arthir45365;Artocaprus_hirsutus|Arthir6330
+cluster23310	3	N/A	N/A	Artocaprus_hirsutus|Arthir13144;Artocaprus_hirsutus|Arthir1187;Artocaprus_hirsutus|Arthir8163
+cluster23311	3	P10978	GO:0015074; P:DNA integration; IEA:InterPro	Artocaprus_hirsutus|Arthir40373;Artocaprus_hirsutus|Arthir37677;Artocaprus_hirsutus|Arthir11168
+cluster23312	3	N/A	N/A	Artocaprus_hirsutus|Arthir28219;Artocaprus_hirsutus|Arthir28220;Artocaprus_hirsutus|Arthir32337
+cluster23313	3	Q0WPR4	GO:0051603; P:proteolysis involved in cellular protein catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir43156;Artocaprus_hirsutus|Arthir1256;Artocaprus_hirsutus|Arthir17212
+cluster23314	3	O08560	GO:0007205; P:protein kinase C-activating G protein-coupled receptor signaling pathway; IEA:InterPro	Artocaprus_hirsutus|Arthir45685;Artocaprus_hirsutus|Arthir45738;Artocaprus_hirsutus|Arthir35288
+cluster23315	3	N/A	N/A	Artocaprus_hirsutus|Arthir43486;Artocaprus_hirsutus|Arthir12697;Artocaprus_hirsutus|Arthir43485
+cluster23316	3	Q9C899	GO:0046872; F:metal ion binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir622;Artocaprus_hirsutus|Arthir623;Artocaprus_hirsutus|Arthir46011
+cluster23317	3	N/A	N/A	Artocaprus_hirsutus|Arthir43891;Artocaprus_hirsutus|Arthir2174;Artocaprus_hirsutus|Arthir2182
+cluster23318	3	N/A	N/A	Artocaprus_hirsutus|Arthir43327;Artocaprus_hirsutus|Arthir2678;Artocaprus_hirsutus|Arthir43326
+cluster23319	3	N/A	N/A	Artocaprus_hirsutus|Arthir14795;Artocaprus_hirsutus|Arthir15359;Artocaprus_hirsutus|Arthir27466
+cluster28912	2	N/A	N/A	Artocaprus_hirsutus|Arthir13456;Artocaprus_hirsutus|Arthir40753
+cluster29741	2	N/A	N/A	Artocaprus_hirsutus|Arthir42830;Artocaprus_hirsutus|Arthir34446
+cluster29742	2	N/A	N/A	Artocaprus_hirsutus|Arthir38857;Artocaprus_hirsutus|Arthir646
+cluster29743	2	Q94A02	GO:0048367; P:shoot system development; IGI:TAIR	Artocaprus_hirsutus|Arthir15148;Artocaprus_hirsutus|Arthir35363
+cluster29744	2	N/A	N/A	Artocaprus_hirsutus|Arthir22751;Artocaprus_hirsutus|Arthir13929
+cluster29745	2	N/A	N/A	Artocaprus_hirsutus|Arthir13312;Artocaprus_hirsutus|Arthir18121
+cluster29746	2	N/A	N/A	Artocaprus_hirsutus|Arthir4498;Artocaprus_hirsutus|Arthir30653
+cluster29747	2	Q8LAP6	GO:0016020; C:membrane; IDA:TAIR	Artocaprus_hirsutus|Arthir32856;Artocaprus_hirsutus|Arthir9095
+cluster29748	2	N/A	N/A	Artocaprus_hirsutus|Arthir38964;Artocaprus_hirsutus|Arthir28460
+cluster29749	2	N/A	N/A	Artocaprus_hirsutus|Arthir31380;Artocaprus_hirsutus|Arthir32963
+cluster29750	2	N/A	N/A	Artocaprus_hirsutus|Arthir22352;Artocaprus_hirsutus|Arthir38392
+cluster29751	2	N/A	N/A	Artocaprus_hirsutus|Arthir23657;Artocaprus_hirsutus|Arthir7354
+cluster29752	2	N/A	N/A	Artocaprus_hirsutus|Arthir38640;Artocaprus_hirsutus|Arthir9354
+cluster29753	2	N/A	N/A	Artocaprus_hirsutus|Arthir15360;Artocaprus_hirsutus|Arthir14794
+cluster29754	2	N/A	N/A	Artocaprus_hirsutus|Arthir29392;Artocaprus_hirsutus|Arthir36497
+cluster29755	2	Q5C9I9	GO:0031525; P:menthol biosynthetic process; IDA:UniProtKB	Artocaprus_hirsutus|Arthir18736;Artocaprus_hirsutus|Arthir18737
+cluster29756	2	N/A	N/A	Artocaprus_hirsutus|Arthir39813;Artocaprus_hirsutus|Arthir43628
+cluster29757	2	N/A	N/A	Artocaprus_hirsutus|Arthir31410;Artocaprus_hirsutus|Arthir11515
+cluster29758	2	Q96PP9	GO:0071346; P:cellular response to interferon-gamma; IEP:UniProtKB	Artocaprus_hirsutus|Arthir34933;Artocaprus_hirsutus|Arthir10275
+cluster29759	2	N/A	N/A	Artocaprus_hirsutus|Arthir25879;Artocaprus_hirsutus|Arthir41635
+cluster29760	2	Q9SVM3	GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell	Artocaprus_hirsutus|Arthir29581;Artocaprus_hirsutus|Arthir26338
+cluster29761	2	N/A	N/A	Artocaprus_hirsutus|Arthir21549;Artocaprus_hirsutus|Arthir21646
+cluster29762	2	N/A	N/A	Artocaprus_hirsutus|Arthir28263;Artocaprus_hirsutus|Arthir22780
+cluster29763	2	N/A	N/A	Artocaprus_hirsutus|Arthir21611;Artocaprus_hirsutus|Arthir25097
+cluster29764	2	Q9LI74	GO:0009902; P:chloroplast relocation; IMP:TAIR	Artocaprus_hirsutus|Arthir12541;Artocaprus_hirsutus|Arthir39248
+cluster29765	2	N/A	N/A	Artocaprus_hirsutus|Arthir28679;Artocaprus_hirsutus|Arthir1799
+cluster29766	2	N/A	N/A	Artocaprus_hirsutus|Arthir39189;Artocaprus_hirsutus|Arthir40142
+cluster29767	2	N/A	N/A	Artocaprus_hirsutus|Arthir40211;Artocaprus_hirsutus|Arthir7208
+cluster29768	2	N/A	N/A	Artocaprus_hirsutus|Arthir40315;Artocaprus_hirsutus|Arthir8891
+cluster29769	2	Q9LIR8	GO:0005634; C:nucleus; IDA:TAIR	Artocaprus_hirsutus|Arthir29635;Artocaprus_hirsutus|Arthir29636
+cluster29770	2	Q01554	GO:0015986; P:ATP synthesis coupled proton transport; IEA:InterPro	Artocaprus_hirsutus|Arthir6909;Artocaprus_hirsutus|Arthir25695
+cluster29771	2	Q39265	GO:0010026; P:trichome differentiation; IMP:TAIR	Artocaprus_hirsutus|Arthir14241;Artocaprus_hirsutus|Arthir21276
+cluster29772	2	N/A	N/A	Artocaprus_hirsutus|Arthir19518;Artocaprus_hirsutus|Arthir34865
+cluster29773	2	N/A	N/A	Artocaprus_hirsutus|Arthir14857;Artocaprus_hirsutus|Arthir24974
+cluster29774	2	N/A	N/A	Artocaprus_hirsutus|Arthir28548;Artocaprus_hirsutus|Arthir10089
+cluster29775	2	Q8VZG2	GO:0009863; P:salicylic acid mediated signaling pathway; IMP:TAIR	Artocaprus_hirsutus|Arthir4779;Artocaprus_hirsutus|Arthir16558
+cluster29776	2	Q8H0T6	GO:0015713; P:phosphoglycerate transmembrane transport; IDA:UniProtKB	Artocaprus_hirsutus|Arthir20103;Artocaprus_hirsutus|Arthir30199
+cluster29777	2	Q9ZR08	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir44698;Artocaprus_hirsutus|Arthir45590
+cluster29778	2	O23181	GO:0009737; P:response to abscisic acid; IDA:TAIR	Artocaprus_hirsutus|Arthir12342;Artocaprus_hirsutus|Arthir37238
+cluster29779	2	N/A	N/A	Artocaprus_hirsutus|Arthir23623;Artocaprus_hirsutus|Arthir20177
+cluster29780	2	N/A	N/A	Artocaprus_hirsutus|Arthir32858;Artocaprus_hirsutus|Arthir40879
+cluster29781	2	N/A	N/A	Artocaprus_hirsutus|Arthir7028;Artocaprus_hirsutus|Arthir22570
+cluster29782	2	N/A	N/A	Artocaprus_hirsutus|Arthir23385;Artocaprus_hirsutus|Arthir42846
+cluster29783	2	P81395	GO:0003677; F:DNA binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir21380;Artocaprus_hirsutus|Arthir486
+cluster29784	2	N/A	N/A	Artocaprus_hirsutus|Arthir38650;Artocaprus_hirsutus|Arthir20556
+cluster29785	2	N/A	N/A	Artocaprus_hirsutus|Arthir35329;Artocaprus_hirsutus|Arthir33378
+cluster29786	2	N/A	N/A	Artocaprus_hirsutus|Arthir7707;Artocaprus_hirsutus|Arthir39901
+cluster29787	2	N/A	N/A	Artocaprus_hirsutus|Arthir5781;Artocaprus_hirsutus|Arthir20600
+cluster29788	2	N/A	N/A	Artocaprus_hirsutus|Arthir9510;Artocaprus_hirsutus|Arthir7976
+cluster29789	2	N/A	N/A	Artocaprus_hirsutus|Arthir7405;Artocaprus_hirsutus|Arthir43296
+cluster29790	2	P41189	GO:0006412; P:translation; IEA:UniProtKB-UniRule	Artocaprus_hirsutus|Arthir39638;Artocaprus_hirsutus|Arthir23493
+cluster29791	2	N/A	N/A	Artocaprus_hirsutus|Arthir22221;Artocaprus_hirsutus|Arthir1710
+cluster29792	2	N/A	N/A	Artocaprus_hirsutus|Arthir5731;Artocaprus_hirsutus|Arthir44201
+cluster29793	2	Q2V6J9	GO:0102425; F:myricetin 3-O-glucosyltransferase activity; IEA:UniProtKB-EC	Artocaprus_hirsutus|Arthir42140;Artocaprus_hirsutus|Arthir31970
+cluster29794	2	N/A	N/A	Artocaprus_hirsutus|Arthir33774;Artocaprus_hirsutus|Arthir15990
+cluster29795	2	N/A	N/A	Artocaprus_hirsutus|Arthir10996;Artocaprus_hirsutus|Arthir15619
+cluster29796	2	N/A	N/A	Artocaprus_hirsutus|Arthir21525;Artocaprus_hirsutus|Arthir39381
+cluster29797	2	O64771	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir3970;Artocaprus_hirsutus|Arthir24573
+cluster29798	2	Q9ZV04	GO:0006979; P:response to oxidative stress; IEA:InterPro	Artocaprus_hirsutus|Arthir2236;Artocaprus_hirsutus|Arthir8749
+cluster29799	2	Q9LSF8	GO:0016114; P:terpenoid biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir42993;Artocaprus_hirsutus|Arthir42994
+cluster29800	2	P51075	GO:0009813; P:flavonoid biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir19097;Artocaprus_hirsutus|Arthir39675
+cluster29801	2	N/A	N/A	Artocaprus_hirsutus|Arthir4204;Artocaprus_hirsutus|Arthir11605
+cluster29802	2	A6P6V9	GO:0071949; F:FAD binding; IEA:InterPro	Artocaprus_hirsutus|Arthir13223;Artocaprus_hirsutus|Arthir29176
+cluster29803	2	N/A	N/A	Artocaprus_hirsutus|Arthir8871;Artocaprus_hirsutus|Arthir19807
+cluster29804	2	N/A	N/A	Artocaprus_hirsutus|Arthir35530;Artocaprus_hirsutus|Arthir3432
+cluster29805	2	N/A	N/A	Artocaprus_hirsutus|Arthir12843;Artocaprus_hirsutus|Arthir10406
+cluster29806	2	Q6R0C4	GO:0009414; P:response to water deprivation; IMP:UniProtKB	Artocaprus_hirsutus|Arthir29101;Artocaprus_hirsutus|Arthir30947
+cluster29807	2	N/A	N/A	Artocaprus_hirsutus|Arthir46;Artocaprus_hirsutus|Arthir12939
+cluster29808	2	Q94A97	GO:0006511; P:ubiquitin-dependent protein catabolic process; IDA:TAIR	Artocaprus_hirsutus|Arthir20569;Artocaprus_hirsutus|Arthir26388
+cluster29809	2	P62785	GO:0009414; P:response to water deprivation; IEA:EnsemblPlants	Artocaprus_hirsutus|Arthir14427;Artocaprus_hirsutus|Arthir23752
+cluster29810	2	Q9FF86	GO:0010090; P:trichome morphogenesis; IMP:TAIR	Artocaprus_hirsutus|Arthir2597;Artocaprus_hirsutus|Arthir10163
+cluster29811	2	N/A	N/A	Artocaprus_hirsutus|Arthir29132;Artocaprus_hirsutus|Arthir18532
+cluster29812	2	N/A	N/A	Artocaprus_hirsutus|Arthir33199;Artocaprus_hirsutus|Arthir2076
+cluster29813	2	N/A	N/A	Artocaprus_hirsutus|Arthir29040;Artocaprus_hirsutus|Arthir19127
+cluster29814	2	N/A	N/A	Artocaprus_hirsutus|Arthir16489;Artocaprus_hirsutus|Arthir30495
+cluster29815	2	N/A	N/A	Artocaprus_hirsutus|Arthir28838;Artocaprus_hirsutus|Arthir1593
+cluster29816	2	N/A	N/A	Artocaprus_hirsutus|Arthir11311;Artocaprus_hirsutus|Arthir10368
+cluster29817	2	N/A	N/A	Artocaprus_hirsutus|Arthir10976;Artocaprus_hirsutus|Arthir10975
+cluster29818	2	N/A	N/A	Artocaprus_hirsutus|Arthir31484;Artocaprus_hirsutus|Arthir43353
+cluster29819	2	N/A	N/A	Artocaprus_hirsutus|Arthir27928;Artocaprus_hirsutus|Arthir10156
+cluster29820	2	N/A	N/A	Artocaprus_hirsutus|Arthir13664;Artocaprus_hirsutus|Arthir26138
+cluster29821	2	N/A	N/A	Artocaprus_hirsutus|Arthir41242;Artocaprus_hirsutus|Arthir22684
+cluster29822	2	N/A	N/A	Artocaprus_hirsutus|Arthir2120;Artocaprus_hirsutus|Arthir10220
+cluster29823	2	N/A	N/A	Artocaprus_hirsutus|Arthir44806;Artocaprus_hirsutus|Arthir41832
+cluster29824	2	N/A	N/A	Artocaprus_hirsutus|Arthir31091;Artocaprus_hirsutus|Arthir31087
+cluster29825	2	N/A	N/A	Artocaprus_hirsutus|Arthir36313;Artocaprus_hirsutus|Arthir39289
+cluster29826	2	P51090	GO:0009813; P:flavonoid biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir11096;Artocaprus_hirsutus|Arthir42809
+cluster29827	2	N/A	N/A	Artocaprus_hirsutus|Arthir17556;Artocaprus_hirsutus|Arthir28329
+cluster29828	2	N/A	N/A	Artocaprus_hirsutus|Arthir24564;Artocaprus_hirsutus|Arthir3480
+cluster29829	2	N/A	N/A	Artocaprus_hirsutus|Arthir39379;Artocaprus_hirsutus|Arthir21523
+cluster29830	2	N/A	N/A	Artocaprus_hirsutus|Arthir14080;Artocaprus_hirsutus|Arthir39561
+cluster29831	2	N/A	N/A	Artocaprus_hirsutus|Arthir44613;Artocaprus_hirsutus|Arthir562
+cluster29832	2	P35336	GO:0009835; P:fruit ripening; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir26197;Artocaprus_hirsutus|Arthir46235
+cluster29833	2	N/A	N/A	Artocaprus_hirsutus|Arthir42946;Artocaprus_hirsutus|Arthir26859
+cluster29834	2	N/A	N/A	Artocaprus_hirsutus|Arthir33061;Artocaprus_hirsutus|Arthir38239
+cluster29835	2	N/A	N/A	Artocaprus_hirsutus|Arthir10600;Artocaprus_hirsutus|Arthir12335
+cluster29836	2	N/A	N/A	Artocaprus_hirsutus|Arthir21537;Artocaprus_hirsutus|Arthir27438
+cluster29837	2	Q0WPR4	GO:0051603; P:proteolysis involved in cellular protein catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir11937;Artocaprus_hirsutus|Arthir17635
+cluster29838	2	N/A	N/A	Artocaprus_hirsutus|Arthir29685;Artocaprus_hirsutus|Arthir24347
+cluster29839	2	N/A	N/A	Artocaprus_hirsutus|Arthir18665;Artocaprus_hirsutus|Arthir18664
+cluster29840	2	Q9SW11	GO:0004842; F:ubiquitin-protein transferase activity; IEA:InterPro	Artocaprus_hirsutus|Arthir39868;Artocaprus_hirsutus|Arthir33183
+cluster29841	2	Q9LK73	GO:0008194; F:UDP-glycosyltransferase activity; IBA:GO_Central	Artocaprus_hirsutus|Arthir3072;Artocaprus_hirsutus|Arthir13177
+cluster29842	2	N/A	N/A	Artocaprus_hirsutus|Arthir7923;Artocaprus_hirsutus|Arthir7536
+cluster29843	2	N/A	N/A	Artocaprus_hirsutus|Arthir15587;Artocaprus_hirsutus|Arthir36899
+cluster29844	2	N/A	N/A	Artocaprus_hirsutus|Arthir18831;Artocaprus_hirsutus|Arthir24250
+cluster29845	2	Q8LPW4	GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir38784;Artocaprus_hirsutus|Arthir17328
+cluster29846	2	Q9CAY1	GO:0009451; P:RNA modification; IBA:GO_Central	Artocaprus_hirsutus|Arthir13479;Artocaprus_hirsutus|Arthir2321
+cluster29847	2	N/A	N/A	Artocaprus_hirsutus|Arthir11366;Artocaprus_hirsutus|Arthir43960
+cluster29848	2	N/A	N/A	Artocaprus_hirsutus|Arthir46229;Artocaprus_hirsutus|Arthir46228
+cluster29849	2	N/A	N/A	Artocaprus_hirsutus|Arthir12562;Artocaprus_hirsutus|Arthir2783
+cluster29850	2	Q70YV7	GO:0030154; P:cell differentiation; IBA:GO_Central	Artocaprus_hirsutus|Arthir10521;Artocaprus_hirsutus|Arthir39858
+cluster29851	2	N/A	N/A	Artocaprus_hirsutus|Arthir22220;Artocaprus_hirsutus|Arthir1709
+cluster29852	2	P18670	GO:0019862; F:IgA binding; IDA:UniProtKB	Artocaprus_hirsutus|Arthir28638;Artocaprus_hirsutus|Arthir19615
+cluster29853	2	N/A	N/A	Artocaprus_hirsutus|Arthir5551;Artocaprus_hirsutus|Arthir39443
+cluster29854	2	O65924	GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir42864;Artocaprus_hirsutus|Arthir36796
+cluster29855	2	N/A	N/A	Artocaprus_hirsutus|Arthir28766;Artocaprus_hirsutus|Arthir13720
+cluster29856	2	N/A	N/A	Artocaprus_hirsutus|Arthir16756;Artocaprus_hirsutus|Arthir19129
+cluster29857	2	N/A	N/A	Artocaprus_hirsutus|Arthir28179;Artocaprus_hirsutus|Arthir39022
+cluster29858	2	N/A	N/A	Artocaprus_hirsutus|Arthir18152;Artocaprus_hirsutus|Arthir4993
+cluster29859	2	N/A	N/A	Artocaprus_hirsutus|Arthir41928;Artocaprus_hirsutus|Arthir41929
+cluster29860	2	N/A	N/A	Artocaprus_hirsutus|Arthir43736;Artocaprus_hirsutus|Arthir22387
+cluster29861	2	N/A	N/A	Artocaprus_hirsutus|Arthir37189;Artocaprus_hirsutus|Arthir9710
+cluster29862	2	P04793	GO:0009651; P:response to salt stress; IBA:GO_Central	Artocaprus_hirsutus|Arthir4861;Artocaprus_hirsutus|Arthir9133
+cluster29863	2	N/A	N/A	Artocaprus_hirsutus|Arthir34047;Artocaprus_hirsutus|Arthir41500
+cluster29864	2	O64477	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir44759;Artocaprus_hirsutus|Arthir24061
+cluster29865	2	N/A	N/A	Artocaprus_hirsutus|Arthir39978;Artocaprus_hirsutus|Arthir25711
+cluster29866	2	N/A	N/A	Artocaprus_hirsutus|Arthir3528;Artocaprus_hirsutus|Arthir17451
+cluster29867	2	N/A	N/A	Artocaprus_hirsutus|Arthir25139;Artocaprus_hirsutus|Arthir7121
+cluster29868	2	N/A	N/A	Artocaprus_hirsutus|Arthir7053;Artocaprus_hirsutus|Arthir21014
+cluster29869	2	Q9FF29	GO:0009620; P:response to fungus; ISS:TAIR	Artocaprus_hirsutus|Arthir16757;Artocaprus_hirsutus|Arthir16755
+cluster29870	2	N/A	N/A	Artocaprus_hirsutus|Arthir35529;Artocaprus_hirsutus|Arthir3431
+cluster29871	2	Q5PP62	GO:0080040; P:positive regulation of cellular response to phosphate starvation; IMP:TAIR	Artocaprus_hirsutus|Arthir46138;Artocaprus_hirsutus|Arthir35373
+cluster29872	2	N/A	N/A	Artocaprus_hirsutus|Arthir2567;Artocaprus_hirsutus|Arthir10387
+cluster29873	2	N/A	N/A	Artocaprus_hirsutus|Arthir25222;Artocaprus_hirsutus|Arthir23173
+cluster29874	2	N/A	N/A	Artocaprus_hirsutus|Arthir18077;Artocaprus_hirsutus|Arthir38427
+cluster29875	2	N/A	N/A	Artocaprus_hirsutus|Arthir27942;Artocaprus_hirsutus|Arthir38929
+cluster29876	2	N/A	N/A	Artocaprus_hirsutus|Arthir6731;Artocaprus_hirsutus|Arthir43551
+cluster29877	2	Q9FHB6	GO:0009624; P:response to nematode; IEP:TAIR	Artocaprus_hirsutus|Arthir14573;Artocaprus_hirsutus|Arthir29841
+cluster29878	2	N/A	N/A	Artocaprus_hirsutus|Arthir25707;Artocaprus_hirsutus|Arthir39975
+cluster29879	2	N/A	N/A	Artocaprus_hirsutus|Arthir39713;Artocaprus_hirsutus|Arthir912
+cluster29880	2	N/A	N/A	Artocaprus_hirsutus|Arthir40868;Artocaprus_hirsutus|Arthir11805
+cluster29881	2	N/A	N/A	Artocaprus_hirsutus|Arthir36673;Artocaprus_hirsutus|Arthir34859
+cluster29882	2	N/A	N/A	Artocaprus_hirsutus|Arthir3037;Artocaprus_hirsutus|Arthir18581
+cluster29883	2	N/A	N/A	Artocaprus_hirsutus|Arthir8934;Artocaprus_hirsutus|Arthir38928
+cluster29884	2	N/A	N/A	Artocaprus_hirsutus|Arthir31089;Artocaprus_hirsutus|Arthir31092
+cluster29885	2	N/A	N/A	Artocaprus_hirsutus|Arthir20664;Artocaprus_hirsutus|Arthir16637
+cluster29886	2	Q9FLN0	GO:0009627; P:systemic acquired resistance; IMP:UniProtKB	Artocaprus_hirsutus|Arthir23841;Artocaprus_hirsutus|Arthir43179
+cluster29887	2	Q9SZE7	GO:0009651; P:response to salt stress; IEP:TAIR	Artocaprus_hirsutus|Arthir19540;Artocaprus_hirsutus|Arthir19539
+cluster29888	2	N/A	N/A	Artocaprus_hirsutus|Arthir36477;Artocaprus_hirsutus|Arthir9263
+cluster29889	2	N/A	N/A	Artocaprus_hirsutus|Arthir14016;Artocaprus_hirsutus|Arthir34038
+cluster29890	2	N/A	N/A	Artocaprus_hirsutus|Arthir2271;Artocaprus_hirsutus|Arthir33242
+cluster29891	2	N/A	N/A	Artocaprus_hirsutus|Arthir3869;Artocaprus_hirsutus|Arthir942
+cluster29892	2	Q6JN46	GO:0050832; P:defense response to fungus; IDA:UniProtKB	Artocaprus_hirsutus|Arthir34826;Artocaprus_hirsutus|Arthir34825
+cluster29893	2	N/A	N/A	Artocaprus_hirsutus|Arthir29973;Artocaprus_hirsutus|Arthir25858
+cluster29894	2	N/A	N/A	Artocaprus_hirsutus|Arthir19610;Artocaprus_hirsutus|Arthir44132
+cluster29895	2	N/A	N/A	Artocaprus_hirsutus|Arthir4209;Artocaprus_hirsutus|Arthir27429
+cluster29896	2	N/A	N/A	Artocaprus_hirsutus|Arthir24880;Artocaprus_hirsutus|Arthir12407
+cluster29897	2	Q8VWF6	GO:0009058; P:biosynthetic process; IEA:InterPro	Artocaprus_hirsutus|Arthir7086;Artocaprus_hirsutus|Arthir9639
+cluster29898	2	N/A	N/A	Artocaprus_hirsutus|Arthir14997;Artocaprus_hirsutus|Arthir38686
+cluster29899	2	N/A	N/A	Artocaprus_hirsutus|Arthir45528;Artocaprus_hirsutus|Arthir3939
+cluster29900	2	Q9LPI5	GO:0003723; F:RNA binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir28411;Artocaprus_hirsutus|Arthir4019
+cluster29901	2	N/A	N/A	Artocaprus_hirsutus|Arthir18241;Artocaprus_hirsutus|Arthir2731
+cluster29902	2	N/A	N/A	Artocaprus_hirsutus|Arthir3712;Artocaprus_hirsutus|Arthir6067
+cluster29903	2	N/A	N/A	Artocaprus_hirsutus|Arthir42037;Artocaprus_hirsutus|Arthir25902
+cluster29904	2	N/A	N/A	Artocaprus_hirsutus|Arthir1032;Artocaprus_hirsutus|Arthir819
+cluster29905	2	N/A	N/A	Artocaprus_hirsutus|Arthir37751;Artocaprus_hirsutus|Arthir20724
+cluster29906	2	P52581	GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir43583;Artocaprus_hirsutus|Arthir13805
+cluster29907	2	N/A	N/A	Artocaprus_hirsutus|Arthir11197;Artocaprus_hirsutus|Arthir28597
+cluster29908	2	N/A	N/A	Artocaprus_hirsutus|Arthir19865;Artocaprus_hirsutus|Arthir41591
+cluster29909	2	Q70PR7	GO:0009820; P:alkaloid metabolic process; IDA:UniProtKB	Artocaprus_hirsutus|Arthir14306;Artocaprus_hirsutus|Arthir34140
+cluster29910	2	N/A	N/A	Artocaprus_hirsutus|Arthir6534;Artocaprus_hirsutus|Arthir14889
+cluster29911	2	P19041	GO:0055114; P:oxidation-reduction process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir25694;Artocaprus_hirsutus|Arthir44247
+cluster29912	2	P29059	GO:0000272; P:polysaccharide catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir15627;Artocaprus_hirsutus|Arthir19446
+cluster29913	2	N/A	N/A	Artocaprus_hirsutus|Arthir21888;Artocaprus_hirsutus|Arthir27272
+cluster29914	2	Q9LQC8	GO:0016192; P:vesicle-mediated transport; IBA:GO_Central	Artocaprus_hirsutus|Arthir30831;Artocaprus_hirsutus|Arthir28841
+cluster29915	2	N/A	N/A	Artocaprus_hirsutus|Arthir451;Artocaprus_hirsutus|Arthir12111
+cluster29916	2	N/A	N/A	Artocaprus_hirsutus|Arthir43832;Artocaprus_hirsutus|Arthir17674
+cluster29917	2	N/A	N/A	Artocaprus_hirsutus|Arthir41385;Artocaprus_hirsutus|Arthir37362
+cluster29918	2	N/A	N/A	Artocaprus_hirsutus|Arthir35306;Artocaprus_hirsutus|Arthir5018
+cluster29919	2	B9RPM3	GO:0010333; F:terpene synthase activity; IEA:InterPro	Artocaprus_hirsutus|Arthir7126;Artocaprus_hirsutus|Arthir7056
+cluster29920	2	N/A	N/A	Artocaprus_hirsutus|Arthir20926;Artocaprus_hirsutus|Arthir34591
+cluster29921	2	Q8LPS2	GO:0009615; P:response to virus; IEP:TAIR	Artocaprus_hirsutus|Arthir6435;Artocaprus_hirsutus|Arthir3475
+cluster29922	2	N/A	N/A	Artocaprus_hirsutus|Arthir38420;Artocaprus_hirsutus|Arthir4346
+cluster29923	2	N/A	N/A	Artocaprus_hirsutus|Arthir7281;Artocaprus_hirsutus|Arthir25693
+cluster29924	2	N/A	N/A	Artocaprus_hirsutus|Arthir42781;Artocaprus_hirsutus|Arthir30363
+cluster29925	2	N/A	N/A	Artocaprus_hirsutus|Arthir15241;Artocaprus_hirsutus|Arthir9989
+cluster29926	2	Q9ZNS0	GO:0010311; P:lateral root formation; IMP:CACAO	Artocaprus_hirsutus|Arthir38651;Artocaprus_hirsutus|Arthir20554
+cluster29927	2	N/A	N/A	Artocaprus_hirsutus|Arthir32394;Artocaprus_hirsutus|Arthir7059
+cluster29928	2	N/A	N/A	Artocaprus_hirsutus|Arthir28799;Artocaprus_hirsutus|Arthir4760
+cluster29929	2	F4JNB7	GO:0007165; P:signal transduction; IEA:InterPro	Artocaprus_hirsutus|Arthir7174;Artocaprus_hirsutus|Arthir7172
+cluster29930	2	N/A	N/A	Artocaprus_hirsutus|Arthir943;Artocaprus_hirsutus|Arthir3870
+cluster29931	2	N/A	N/A	Artocaprus_hirsutus|Arthir29870;Artocaprus_hirsutus|Arthir29869
+cluster29932	2	Q9FH40	GO:0006355; P:regulation of transcription, DNA-templated; IEA:InterPro	Artocaprus_hirsutus|Arthir12819;Artocaprus_hirsutus|Arthir6434
+cluster29933	2	N/A	N/A	Artocaprus_hirsutus|Arthir15256;Artocaprus_hirsutus|Arthir41972
+cluster29934	2	N/A	N/A	Artocaprus_hirsutus|Arthir35737;Artocaprus_hirsutus|Arthir35901
+cluster29935	2	N/A	N/A	Artocaprus_hirsutus|Arthir12622;Artocaprus_hirsutus|Arthir24039
+cluster29936	2	O81004	GO:0046872; F:metal ion binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir16972;Artocaprus_hirsutus|Arthir26073
+cluster29937	2	N/A	N/A	Artocaprus_hirsutus|Arthir22482;Artocaprus_hirsutus|Arthir22485
+cluster29938	2	Q9SZ66	GO:0007165; P:signal transduction; IEA:InterPro	Artocaprus_hirsutus|Arthir22408;Artocaprus_hirsutus|Arthir27555
+cluster29939	2	Q9SIC4	GO:0006296; P:nucleotide-excision repair, DNA incision, 5'-to lesion; IBA:GO_Central	Artocaprus_hirsutus|Arthir21698;Artocaprus_hirsutus|Arthir10320
+cluster29940	2	Q9FF29	GO:0009620; P:response to fungus; ISS:TAIR	Artocaprus_hirsutus|Arthir45906;Artocaprus_hirsutus|Arthir14345
+cluster29941	2	N/A	N/A	Artocaprus_hirsutus|Arthir35686;Artocaprus_hirsutus|Arthir3776
+cluster29942	2	N/A	N/A	Artocaprus_hirsutus|Arthir18559;Artocaprus_hirsutus|Arthir3134
+cluster29943	2	N/A	N/A	Artocaprus_hirsutus|Arthir1847;Artocaprus_hirsutus|Arthir35555
+cluster29944	2	Q8RXN0	GO:0055085; P:transmembrane transport; IBA:GO_Central	Artocaprus_hirsutus|Arthir11646;Artocaprus_hirsutus|Arthir9730
+cluster29945	2	O48659	GO:0008295; P:spermidine biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir28465;Artocaprus_hirsutus|Arthir33733
+cluster29946	2	N/A	N/A	Artocaprus_hirsutus|Arthir41930;Artocaprus_hirsutus|Arthir34335
+cluster29947	2	P51614	GO:0000272; P:polysaccharide catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir5214;Artocaprus_hirsutus|Arthir35355
+cluster29948	2	N/A	N/A	Artocaprus_hirsutus|Arthir18370;Artocaprus_hirsutus|Arthir5232
+cluster29949	2	N/A	N/A	Artocaprus_hirsutus|Arthir36665;Artocaprus_hirsutus|Arthir4643
+cluster29950	2	Q8GWI7	GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir42332;Artocaprus_hirsutus|Arthir8471
+cluster29951	2	O49814	GO:0016117; P:carotenoid biosynthetic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir29509;Artocaprus_hirsutus|Arthir30705
+cluster29952	2	N/A	N/A	Artocaprus_hirsutus|Arthir5162;Artocaprus_hirsutus|Arthir1632
+cluster29953	2	N/A	N/A	Artocaprus_hirsutus|Arthir26627;Artocaprus_hirsutus|Arthir20140
+cluster29954	2	N/A	N/A	Artocaprus_hirsutus|Arthir32291;Artocaprus_hirsutus|Arthir32290
+cluster29955	2	P43311	GO:0046148; P:pigment biosynthetic process; IEA:InterPro	Artocaprus_hirsutus|Arthir1435;Artocaprus_hirsutus|Arthir39548
+cluster29956	2	N/A	N/A	Artocaprus_hirsutus|Arthir9519;Artocaprus_hirsutus|Arthir33497
+cluster29957	2	N/A	N/A	Artocaprus_hirsutus|Arthir34312;Artocaprus_hirsutus|Arthir19555
+cluster29958	2	O64882	GO:0005975; P:carbohydrate metabolic process; IEA:InterPro	Artocaprus_hirsutus|Arthir25974;Artocaprus_hirsutus|Arthir5352
+cluster29959	2	N/A	N/A	Artocaprus_hirsutus|Arthir26565;Artocaprus_hirsutus|Arthir36281
+cluster29960	2	N/A	N/A	Artocaprus_hirsutus|Arthir38453;Artocaprus_hirsutus|Arthir22607
+cluster29961	2	N/A	N/A	Artocaprus_hirsutus|Arthir429;Artocaprus_hirsutus|Arthir22784
+cluster29962	2	N/A	N/A	Artocaprus_hirsutus|Arthir494;Artocaprus_hirsutus|Arthir29479
+cluster29963	2	N/A	N/A	Artocaprus_hirsutus|Arthir40862;Artocaprus_hirsutus|Arthir16105
+cluster29964	2	N/A	N/A	Artocaprus_hirsutus|Arthir14529;Artocaprus_hirsutus|Arthir34445
+cluster29965	2	N/A	N/A	Artocaprus_hirsutus|Arthir2110;Artocaprus_hirsutus|Arthir2168
+cluster29966	2	N/A	N/A	Artocaprus_hirsutus|Arthir32728;Artocaprus_hirsutus|Arthir20759
+cluster29967	2	N/A	N/A	Artocaprus_hirsutus|Arthir41784;Artocaprus_hirsutus|Arthir21980
+cluster29968	2	Q307Y9	GO:0006556; P:S-adenosylmethionine biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir18634;Artocaprus_hirsutus|Arthir30881
+cluster29969	2	Q9M667	GO:0009626; P:plant-type hypersensitive response; IMP:TAIR	Artocaprus_hirsutus|Arthir28674;Artocaprus_hirsutus|Arthir16773
+cluster29970	2	Q5J907	GO:0005737; C:cytoplasm; IEA:UniProtKB-SubCell	Artocaprus_hirsutus|Arthir29615;Artocaprus_hirsutus|Arthir19304
+cluster29971	2	Q9FVQ0	GO:0009851; P:auxin biosynthetic process; IEA:UniProtKB-UniPathway	Artocaprus_hirsutus|Arthir39602;Artocaprus_hirsutus|Arthir5201
+cluster29972	2	N/A	N/A	Artocaprus_hirsutus|Arthir33529;Artocaprus_hirsutus|Arthir33528
+cluster29973	2	N/A	N/A	Artocaprus_hirsutus|Arthir31384;Artocaprus_hirsutus|Arthir3795
+cluster29974	2	N/A	N/A	Artocaprus_hirsutus|Arthir24741;Artocaprus_hirsutus|Arthir9082
+cluster29975	2	N/A	N/A	Artocaprus_hirsutus|Arthir36471;Artocaprus_hirsutus|Arthir15730
+cluster29976	2	N/A	N/A	Artocaprus_hirsutus|Arthir3544;Artocaprus_hirsutus|Arthir35195
+cluster29977	2	Q9LRR4	GO:0006952; P:defense response; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir4666;Artocaprus_hirsutus|Arthir4662
+cluster29978	2	Q680I5	GO:0034775; P:glutathione transmembrane transport; IMP:TAIR	Artocaprus_hirsutus|Arthir32349;Artocaprus_hirsutus|Arthir18536
+cluster29979	2	N/A	N/A	Artocaprus_hirsutus|Arthir5722;Artocaprus_hirsutus|Arthir9726
+cluster29980	2	Q93ZR6	GO:0010025; P:wax biosynthetic process; IMP:TAIR	Artocaprus_hirsutus|Arthir4335;Artocaprus_hirsutus|Arthir21584
+cluster29981	2	N/A	N/A	Artocaprus_hirsutus|Arthir36561;Artocaprus_hirsutus|Arthir30844
+cluster29982	2	N/A	N/A	Artocaprus_hirsutus|Arthir32559;Artocaprus_hirsutus|Arthir32560
+cluster29983	2	P0C8Q2	GO:0009451; P:RNA modification; IBA:GO_Central	Artocaprus_hirsutus|Arthir24565;Artocaprus_hirsutus|Arthir4259
+cluster29984	2	N/A	N/A	Artocaprus_hirsutus|Arthir33443;Artocaprus_hirsutus|Arthir36535
+cluster29985	2	N/A	N/A	Artocaprus_hirsutus|Arthir30353;Artocaprus_hirsutus|Arthir35855
+cluster29986	2	N/A	N/A	Artocaprus_hirsutus|Arthir38869;Artocaprus_hirsutus|Arthir43634
+cluster29987	2	Q94AH6	GO:0006511; P:ubiquitin-dependent protein catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir10000;Artocaprus_hirsutus|Arthir13013
+cluster29988	2	N/A	N/A	Artocaprus_hirsutus|Arthir23955;Artocaprus_hirsutus|Arthir23952
+cluster29989	2	Q9FLW0	GO:0046777; P:protein autophosphorylation; IBA:GO_Central	Artocaprus_hirsutus|Arthir6077;Artocaprus_hirsutus|Arthir44006
+cluster29990	2	N/A	N/A	Artocaprus_hirsutus|Arthir2565;Artocaprus_hirsutus|Arthir16742
+cluster29991	2	N/A	N/A	Artocaprus_hirsutus|Arthir5505;Artocaprus_hirsutus|Arthir27588
+cluster29992	2	N/A	N/A	Artocaprus_hirsutus|Arthir20911;Artocaprus_hirsutus|Arthir20787
+cluster29993	2	N/A	N/A	Artocaprus_hirsutus|Arthir4386;Artocaprus_hirsutus|Arthir4364
+cluster29994	2	Q9LVC8	GO:0006744; P:ubiquinone biosynthetic process; IEA:UniProtKB-UniRule	Artocaprus_hirsutus|Arthir2691;Artocaprus_hirsutus|Arthir11218
+cluster29995	2	O23553	GO:0005983; P:starch catabolic process; IDA:TAIR	Artocaprus_hirsutus|Arthir16472;Artocaprus_hirsutus|Arthir40965
+cluster29996	2	O49879	GO:0005886; C:plasma membrane; IEA:UniProtKB-SubCell	Artocaprus_hirsutus|Arthir14653;Artocaprus_hirsutus|Arthir8042
+cluster29997	2	N/A	N/A	Artocaprus_hirsutus|Arthir16066;Artocaprus_hirsutus|Arthir35811
+cluster29998	2	N/A	N/A	Artocaprus_hirsutus|Arthir41401;Artocaprus_hirsutus|Arthir34664
+cluster29999	2	N/A	N/A	Artocaprus_hirsutus|Arthir18728;Artocaprus_hirsutus|Arthir36147
+cluster30000	2	N/A	N/A	Artocaprus_hirsutus|Arthir20300;Artocaprus_hirsutus|Arthir28192
+cluster30001	2	N/A	N/A	Artocaprus_hirsutus|Arthir5114;Artocaprus_hirsutus|Arthir1625
+cluster30002	2	N/A	N/A	Artocaprus_hirsutus|Arthir40230;Artocaprus_hirsutus|Arthir12006
+cluster30003	2	N/A	N/A	Artocaprus_hirsutus|Arthir7010;Artocaprus_hirsutus|Arthir25572
+cluster30004	2	N/A	N/A	Artocaprus_hirsutus|Arthir22538;Artocaprus_hirsutus|Arthir19887
+cluster30005	2	N/A	N/A	Artocaprus_hirsutus|Arthir30078;Artocaprus_hirsutus|Arthir44549
+cluster30006	2	N/A	N/A	Artocaprus_hirsutus|Arthir43383;Artocaprus_hirsutus|Arthir41636
+cluster30007	2	Q8VYW6	GO:0006979; P:response to oxidative stress; IDA:TAIR	Artocaprus_hirsutus|Arthir18535;Artocaprus_hirsutus|Arthir32348
+cluster30008	2	N/A	N/A	Artocaprus_hirsutus|Arthir33074;Artocaprus_hirsutus|Arthir33072
+cluster30009	2	N/A	N/A	Artocaprus_hirsutus|Arthir6448;Artocaprus_hirsutus|Arthir2285
+cluster30010	2	N/A	N/A	Artocaprus_hirsutus|Arthir1750;Artocaprus_hirsutus|Arthir17579
+cluster30011	2	P17859	GO:0005975; P:carbohydrate metabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir26403;Artocaprus_hirsutus|Arthir31017
+cluster30012	2	N/A	N/A	Artocaprus_hirsutus|Arthir38543;Artocaprus_hirsutus|Arthir40113
+cluster30013	2	Q9ZVQ9	GO:0030246; F:carbohydrate binding; ISS:TAIR	Artocaprus_hirsutus|Arthir26466;Artocaprus_hirsutus|Arthir41407
+cluster30014	2	N/A	N/A	Artocaprus_hirsutus|Arthir17026;Artocaprus_hirsutus|Arthir17025
+cluster30015	2	Q9AXJ4	GO:0006452; P:translational frameshifting; IEA:InterPro	Artocaprus_hirsutus|Arthir6086;Artocaprus_hirsutus|Arthir6382
+cluster30016	2	N/A	N/A	Artocaprus_hirsutus|Arthir36784;Artocaprus_hirsutus|Arthir36783
+cluster30017	2	Q9ZVH8	GO:0006351; P:transcription, DNA-templated; IEA:InterPro	Artocaprus_hirsutus|Arthir33290;Artocaprus_hirsutus|Arthir38785
+cluster30018	2	N/A	N/A	Artocaprus_hirsutus|Arthir4803;Artocaprus_hirsutus|Arthir7359
+cluster30019	2	N/A	N/A	Artocaprus_hirsutus|Arthir40235;Artocaprus_hirsutus|Arthir38136
+cluster30020	2	Q9FIA1	GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir36305;Artocaprus_hirsutus|Arthir417
+cluster30021	2	Q9LRR9	GO:0009735; P:response to cytokinin; IDA:TAIR	Artocaprus_hirsutus|Arthir358;Artocaprus_hirsutus|Arthir9033
+cluster30022	2	O23179	GO:0016042; P:lipid catabolic process; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir3901;Artocaprus_hirsutus|Arthir12344
+cluster30023	2	N/A	N/A	Artocaprus_hirsutus|Arthir20141;Artocaprus_hirsutus|Arthir26626
+cluster30024	2	N/A	N/A	Artocaprus_hirsutus|Arthir37453;Artocaprus_hirsutus|Arthir37452
+cluster30025	2	N/A	N/A	Artocaprus_hirsutus|Arthir17382;Artocaprus_hirsutus|Arthir42179
+cluster30026	2	N/A	N/A	Artocaprus_hirsutus|Arthir45174;Artocaprus_hirsutus|Arthir43385
+cluster30027	2	N/A	N/A	Artocaprus_hirsutus|Arthir3694;Artocaprus_hirsutus|Arthir28916
+cluster30028	2	N/A	N/A	Artocaprus_hirsutus|Arthir19787;Artocaprus_hirsutus|Arthir10134
+cluster30029	2	Q9LVL9	GO:0080030; F:methyl indole-3-acetate esterase activity; IDA:TAIR	Artocaprus_hirsutus|Arthir6455;Artocaprus_hirsutus|Arthir25645
+cluster30030	2	O49726	GO:0005215; F:transporter activity; IEA:InterPro	Artocaprus_hirsutus|Arthir35571;Artocaprus_hirsutus|Arthir35572
+cluster30031	2	N/A	N/A	Artocaprus_hirsutus|Arthir34037;Artocaprus_hirsutus|Arthir41991
+cluster30032	2	N/A	N/A	Artocaprus_hirsutus|Arthir3023;Artocaprus_hirsutus|Arthir13373
+cluster30033	2	Q96FX7	GO:0030488; P:tRNA methylation; IBA:GO_Central	Artocaprus_hirsutus|Arthir30200;Artocaprus_hirsutus|Arthir20104
+cluster30034	2	N/A	N/A	Artocaprus_hirsutus|Arthir43907;Artocaprus_hirsutus|Arthir26314
+cluster30035	2	N/A	N/A	Artocaprus_hirsutus|Arthir44104;Artocaprus_hirsutus|Arthir30611
+cluster30036	2	N/A	N/A	Artocaprus_hirsutus|Arthir16209;Artocaprus_hirsutus|Arthir9599
+cluster30037	2	Q9M2U5	GO:0010262; P:somatic embryogenesis; IEP:TAIR	Artocaprus_hirsutus|Arthir31127;Artocaprus_hirsutus|Arthir28528
+cluster30038	2	Q8GYH5	GO:0009751; P:response to salicylic acid; IEP:TAIR	Artocaprus_hirsutus|Arthir34169;Artocaprus_hirsutus|Arthir4099
+cluster30039	2	Q43383	GO:0046872; F:metal ion binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir3794;Artocaprus_hirsutus|Arthir31383
+cluster30040	2	Q94KE0	GO:0009414; P:response to water deprivation; IEP:TAIR	Artocaprus_hirsutus|Arthir11034;Artocaprus_hirsutus|Arthir12050
+cluster30041	2	O64477	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir36325;Artocaprus_hirsutus|Arthir36268
+cluster30042	2	N/A	N/A	Artocaprus_hirsutus|Arthir2695;Artocaprus_hirsutus|Arthir17518
+cluster30043	2	N/A	N/A	Artocaprus_hirsutus|Arthir21021;Artocaprus_hirsutus|Arthir34100
+cluster30044	2	N/A	N/A	Artocaprus_hirsutus|Arthir27679;Artocaprus_hirsutus|Arthir8113
+cluster30045	2	Q6RVV4	GO:0015031; P:protein transport; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir42619;Artocaprus_hirsutus|Arthir42618
+cluster30046	2	N/A	N/A	Artocaprus_hirsutus|Arthir25108;Artocaprus_hirsutus|Arthir36411
+cluster30047	2	O22309	GO:0046983; F:protein dimerization activity; IEA:InterPro	Artocaprus_hirsutus|Arthir28040;Artocaprus_hirsutus|Arthir34791
+cluster30048	2	N/A	N/A	Artocaprus_hirsutus|Arthir39341;Artocaprus_hirsutus|Arthir39339
+cluster30049	2	N/A	N/A	Artocaprus_hirsutus|Arthir22947;Artocaprus_hirsutus|Arthir31180
+cluster30050	2	Q3ECP7	GO:0005351; F:carbohydrate:proton symporter activity; IBA:GO_Central	Artocaprus_hirsutus|Arthir11035;Artocaprus_hirsutus|Arthir12051
+cluster30051	2	N/A	N/A	Artocaprus_hirsutus|Arthir30534;Artocaprus_hirsutus|Arthir24124
+cluster30052	2	N/A	N/A	Artocaprus_hirsutus|Arthir5905;Artocaprus_hirsutus|Arthir12289
+cluster30053	2	Q9SW48	GO:0005987; P:sucrose catabolic process; IBA:GO_Central	Artocaprus_hirsutus|Arthir26702;Artocaprus_hirsutus|Arthir8297
+cluster30054	2	N/A	N/A	Artocaprus_hirsutus|Arthir45347;Artocaprus_hirsutus|Arthir26645
+cluster30055	2	P82732	GO:0031640; P:killing of cells of other organism; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir15959;Artocaprus_hirsutus|Arthir45060
+cluster30056	2	Q9SGH6	GO:0009627; P:systemic acquired resistance; IMP:UniProtKB	Artocaprus_hirsutus|Arthir241;Artocaprus_hirsutus|Arthir12128
+cluster30057	2	N/A	N/A	Artocaprus_hirsutus|Arthir2694;Artocaprus_hirsutus|Arthir17517
+cluster30058	2	N/A	N/A	Artocaprus_hirsutus|Arthir23932;Artocaprus_hirsutus|Arthir42979
+cluster30059	2	Q50EK3	GO:0016705; F:oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen; IEA:InterPro	Artocaprus_hirsutus|Arthir28094;Artocaprus_hirsutus|Arthir19201
+cluster30060	2	C0HK14	GO:0030246; F:carbohydrate binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir14075;Artocaprus_hirsutus|Arthir41300
+cluster30061	2	O24648	GO:0009686; P:gibberellin biosynthetic process; IDA:UniProtKB	Artocaprus_hirsutus|Arthir5168;Artocaprus_hirsutus|Arthir12625
+cluster30062	2	Q8LP17	GO:0016702; F:oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen; IEA:InterPro	Artocaprus_hirsutus|Arthir11287;Artocaprus_hirsutus|Arthir33348
+cluster30063	2	N/A	N/A	Artocaprus_hirsutus|Arthir36589;Artocaprus_hirsutus|Arthir36588
+cluster30064	2	N/A	N/A	Artocaprus_hirsutus|Arthir15524;Artocaprus_hirsutus|Arthir15525
+cluster30065	2	Q9ZPE4	GO:0006511; P:ubiquitin-dependent protein catabolic process; IDA:TAIR	Artocaprus_hirsutus|Arthir1354;Artocaprus_hirsutus|Arthir11722
+cluster30066	2	O50001	GO:0009607; P:response to biotic stimulus; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir13466;Artocaprus_hirsutus|Arthir9852
+cluster30067	2	O22870	GO:0003755; F:peptidyl-prolyl cis-trans isomerase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir28527;Artocaprus_hirsutus|Arthir31126
+cluster30068	2	N/A	N/A	Artocaprus_hirsutus|Arthir36669;Artocaprus_hirsutus|Arthir6384
+cluster30069	2	N/A	N/A	Artocaprus_hirsutus|Arthir17769;Artocaprus_hirsutus|Arthir32061
+cluster30070	2	N/A	N/A	Artocaprus_hirsutus|Arthir26616;Artocaprus_hirsutus|Arthir10633
+cluster30071	2	Q6ENC9	GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell	Artocaprus_hirsutus|Arthir33100;Artocaprus_hirsutus|Arthir39922
+cluster30072	2	N/A	N/A	Artocaprus_hirsutus|Arthir13753;Artocaprus_hirsutus|Arthir13748
+cluster30073	2	N/A	N/A	Artocaprus_hirsutus|Arthir15044;Artocaprus_hirsutus|Arthir15049
+cluster30074	2	N/A	N/A	Artocaprus_hirsutus|Arthir33364;Artocaprus_hirsutus|Arthir33362
+cluster30075	2	N/A	N/A	Artocaprus_hirsutus|Arthir3297;Artocaprus_hirsutus|Arthir37655
+cluster30076	2	P13603	GO:0008270; F:zinc ion binding; IEA:InterPro	Artocaprus_hirsutus|Arthir10790;Artocaprus_hirsutus|Arthir3961
+cluster30077	2	Q6R0C4	GO:0009414; P:response to water deprivation; IMP:UniProtKB	Artocaprus_hirsutus|Arthir11598;Artocaprus_hirsutus|Arthir46212
+cluster30078	2	N/A	N/A	Artocaprus_hirsutus|Arthir23820;Artocaprus_hirsutus|Arthir23819
+cluster30079	2	N/A	N/A	Artocaprus_hirsutus|Arthir22638;Artocaprus_hirsutus|Arthir3365
+cluster30080	2	Q9ZUT5	GO:0009451; P:RNA modification; IBA:GO_Central	Artocaprus_hirsutus|Arthir5925;Artocaprus_hirsutus|Arthir19078
+cluster30081	2	Q5F410	GO:0003677; F:DNA binding; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir22602;Artocaprus_hirsutus|Arthir32997
+cluster30082	2	Q9FID5	GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir6672;Artocaprus_hirsutus|Arthir16852
+cluster30083	2	N/A	N/A	Artocaprus_hirsutus|Arthir15585;Artocaprus_hirsutus|Arthir36894
+cluster30084	2	N/A	N/A	Artocaprus_hirsutus|Arthir8322;Artocaprus_hirsutus|Arthir4723
+cluster30085	2	N/A	N/A	Artocaprus_hirsutus|Arthir3740;Artocaprus_hirsutus|Arthir45078
+cluster30086	2	P93604	GO:0004674; F:protein serine/threonine kinase activity; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir12948;Artocaprus_hirsutus|Arthir16987
+cluster30087	2	D9HP23	GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir42248;Artocaprus_hirsutus|Arthir22295
+cluster30088	2	N/A	N/A	Artocaprus_hirsutus|Arthir4310;Artocaprus_hirsutus|Arthir16256
+cluster30089	2	O64781	GO:0048544; P:recognition of pollen; IEA:InterPro	Artocaprus_hirsutus|Arthir9196;Artocaprus_hirsutus|Arthir9195
+cluster30090	2	N/A	N/A	Artocaprus_hirsutus|Arthir34373;Artocaprus_hirsutus|Arthir23464
+cluster30091	2	N/A	N/A	Artocaprus_hirsutus|Arthir35733;Artocaprus_hirsutus|Arthir7540
+cluster30092	2	Q6RVV4	GO:0015031; P:protein transport; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir18231;Artocaprus_hirsutus|Arthir41846
+cluster30093	2	N/A	N/A	Artocaprus_hirsutus|Arthir8479;Artocaprus_hirsutus|Arthir38884
+cluster30094	2	N/A	N/A	Artocaprus_hirsutus|Arthir45274;Artocaprus_hirsutus|Arthir7458
+cluster30095	2	P49689	GO:0006412; P:translation; IEA:InterPro	Artocaprus_hirsutus|Arthir22;Artocaprus_hirsutus|Arthir19932
+cluster30096	2	Q3E9X6	GO:0006468; P:protein phosphorylation; IBA:GO_Central	Artocaprus_hirsutus|Arthir26603;Artocaprus_hirsutus|Arthir29550
+cluster30097	2	N/A	N/A	Artocaprus_hirsutus|Arthir18147;Artocaprus_hirsutus|Arthir10113
+cluster30098	2	P0C2F6	GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:UniProtKB-EC	Artocaprus_hirsutus|Arthir44744;Artocaprus_hirsutus|Arthir1764
+cluster30099	2	Q9ZNU2	GO:0048317; P:seed morphogenesis; IMP:UniProtKB	Artocaprus_hirsutus|Arthir16907;Artocaprus_hirsutus|Arthir1925
+cluster30100	2	N/A	N/A	Artocaprus_hirsutus|Arthir2352;Artocaprus_hirsutus|Arthir11361
+cluster30101	2	N/A	N/A	Artocaprus_hirsutus|Arthir43065;Artocaprus_hirsutus|Arthir12220
+cluster30102	2	N/A	N/A	Artocaprus_hirsutus|Arthir33916;Artocaprus_hirsutus|Arthir39987
+cluster30103	2	N/A	N/A	Artocaprus_hirsutus|Arthir22347;Artocaprus_hirsutus|Arthir26194
+cluster30104	2	N/A	N/A	Artocaprus_hirsutus|Arthir8374;Artocaprus_hirsutus|Arthir28067
+cluster30105	2	P24076	GO:0009611; P:response to wounding; IEA:InterPro	Artocaprus_hirsutus|Arthir42055;Artocaprus_hirsutus|Arthir2477
+cluster30106	2	C7J4U3	GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW	Artocaprus_hirsutus|Arthir28893;Artocaprus_hirsutus|Arthir37663
