@@ -1,1 +1,1 @@
-Genome assembly metrics amd files.
+Genome assembly metrics and files.
