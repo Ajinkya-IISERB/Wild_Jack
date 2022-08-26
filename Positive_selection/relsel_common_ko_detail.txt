@@ -1,0 +1,210 @@
+Arthir10109			147		
+Arthir1010			330		
+Arthir1013	K23335	GID4; glucose-induced degradation protein 4	163		
+Arthir11457			577		
+Arthir11672	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	390		
+Arthir11762			65		
+Arthir11978			203		
+Arthir1212			187		
+Arthir12191			141		
+Arthir12361	K03798	ftsH, hflB; cell division protease FtsH [EC:3.4.24.-]	70		
+Arthir12440			124		
+Arthir12470	K17790	TIM22; mitochondrial import inner membrane translocase subunit TIM22	134		
+Arthir12545			185		
+Arthir13202	K13436	PTI1; pto-interacting protein 1 [EC:2.7.11.1]	305		
+Arthir1320			23		
+Arthir1321			107		
+Arthir13380			30		
+Arthir1362			656		
+Arthir13635	K12261	HACL1; 2-hydroxyacyl-CoA lyase [EC:4.1.2.63]	510		
+Arthir13883			131		
+Arthir13904	K00430	E1.11.1.7; peroxidase [EC:1.11.1.7]	131		
+Arthir14072	K05681	ABCG2, CD338; ATP-binding cassette, subfamily G (WHITE), member 2	511		
+Arthir14336			53		
+Arthir14355			204		
+Arthir14389	K09377	CSRP; cysteine and glycine-rich protein	158		
+Arthir14401	K09285	OVM, ANT; AP2-like factor, ANT lineage	279		
+Arthir14477			32		
+Arthir14526	K01426	E3.5.1.4, amiE; amidase [EC:3.5.1.4]	131		
+Arthir14612			431		
+Arthir14739			179		
+Arthir15140	K06617	E2.4.1.82; raffinose synthase [EC:2.4.1.82]	681		
+Arthir15223			73		
+Arthir15382			211		
+Arthir1541	K14664	ILR1; IAA-amino acid hydrolase [EC:3.5.1.-]	197		
+Arthir15492			22		
+Arthir1554			818		
+Arthir15726	K14802	DRS2, ATP8A; phospholipid-transporting ATPase [EC:7.6.2.1]	66		
+Arthir15785	K02948	RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11	37		
+Arthir16004			457		
+Arthir16126					
+Arthir16197	K14521	NAT10, KRE33; N-acetyltransferase 10 [EC:2.3.1.-]	928		
+Arthir16264			426		
+Arthir16393			64		
+Arthir16786			671		
+Arthir16834	K11824	AP2A; AP-2 complex subunit alpha	433		
+Arthir16976			422		
+Arthir1718	K03030	PSMD14, RPN11, POH1; 26S proteasome regulatory subunit N11	18		
+Arthir1780	K09422	MYBP; transcription factor MYB, plant	261		
+Arthir18156			350		
+Arthir18216			24		
+Arthir1832			82		
+Arthir18422			624		
+Arthir18600			4		
+Arthir18717			19		
+Arthir19017	K20027	ZDHHC1_11; palmitoyltransferase ZDHHC1/11 [EC:2.3.1.225]	587		
+Arthir19563	K09286	EREBP; EREBP-like factor	214		
+Arthir19579			3		
+Arthir19652			54		
+Arthir19681	K05681	ABCG2, CD338; ATP-binding cassette, subfamily G (WHITE), member 2	627		
+Arthir19942	K14638	SLC15A3_4, PHT; solute carrier family 15 (peptide/histidine transporter), member 3/4	86		
+Arthir19989	K14213	PEPD; Xaa-Pro dipeptidase [EC:3.4.13.9]	430		
+Arthir20041	K03283	HSPA1s; heat shock 70kDa protein 1/2/6/8	650		
+Arthir20145	K08176	PHO84; MFS transporter, PHS family, inorganic phosphate transporter	465		
+Arthir20360	K22913	FIG4; phosphatidylinositol 3,5-bisphosphate 5-phosphatase [EC:3.1.3.-]	805		
+Arthir20551	K09646	SCPEP1; serine carboxypeptidase 1 [EC:3.4.16.-]	266		
+Arthir2060	K20604	MKK9; mitogen-activated protein kinase kinase 9 [EC:2.7.12.2]	51		
+Arthir21076	K03544	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX	377		
+Arthir21185	K13466	EIX1_2; EIX receptor 1/2	63		
+Arthir21396					
+Arthir21766	K03363	CDC20; cell division cycle 20, cofactor of APC complex	317		
+Arthir21831			351		
+Arthir2184			6		
+Arthir22095			18		
+Arthir22329			295		
+Arthir22560			949		
+Arthir22848					
+Arthir22851	K06066	CIR; CBF1 interacting corepressor	314		
+Arthir23076			72		
+Arthir23454			534		
+Arthir23680					
+Arthir24259	K01738	cysK; cysteine synthase [EC:2.5.1.47]	257		
+Arthir24329			146		
+Arthir24975	K09874	NIP; aquaporin NIP	177		
+Arthir25163			20		
+Arthir25313			22		
+Arthir2568	K01872	AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]	873		
+Arthir25874	K15032	MTERFD; mTERF domain-containing protein, mitochondrial	126		
+Arthir26278			113		
+Arthir26347	K11827	AP2S1; AP-2 complex subunit sigma-1	47		
+Arthir26513			512		
+Arthir26525	K14488	SAUR; SAUR family protein	55		
+Arthir26669			331		
+Arthir26674	K08518	STXBP5, SRO7_77; syntaxin-binding protein 5	756		
+Arthir27319	K06130	LYPLA2; lysophospholipase II [EC:3.1.1.5]	229		
+Arthir27347	K01802	E5.2.1.8; peptidylprolyl isomerase [EC:5.2.1.8]	32		
+Arthir27418			159		
+Arthir27636			79		
+Arthir27879	K00898	PDK2_3_4; pyruvate dehydrogenase kinase 2/3/4 [EC:2.7.11.2]	328		
+Arthir27953	K00521	E1.16.1.7; ferric-chelate reductase [EC:1.16.1.7]	455		
+Arthir28083	K10666	RNF5; E3 ubiquitin-protein ligase RNF5 [EC:2.3.2.27]	193		
+Arthir28165	K01184	E3.2.1.15; polygalacturonase [EC:3.2.1.15]	66		
+Arthir28524	K01595	ppc; phosphoenolpyruvate carboxylase [EC:4.1.1.31]	948		
+Arthir28551					
+Arthir28969			100		
+Arthir29041	K00218	por; protochlorophyllide reductase [EC:1.3.1.33]	334		
+Arthir30263	K00856	ADK, adoK; adenosine kinase [EC:2.7.1.20]	88		
+Arthir30324			147		
+Arthir30517			24		
+Arthir30909			234		
+Arthir31059			458		
+Arthir31239			138		
+Arthir31551			277		
+Arthir31644			91		
+Arthir31716			1		
+Arthir31780	K10632	BRAP; BRCA1-associated protein [EC:2.3.2.27]	350		
+Arthir31838	K02925	RP-L3e, RPL3; large subunit ribosomal protein L3e	381		
+Arthir31864			83		
+Arthir31875			28		
+Arthir32046	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	144		
+Arthir32706	K09571	FKBP4_5; FK506-binding protein 4/5 [EC:5.2.1.8]	357		
+Arthir32837			406		
+Arthir33270	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	153		
+Arthir33312	K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	369		
+Arthir3335			558		
+Arthir33652			293		
+Arthir33662	K12123	PHYE; phytochrome E	16		
+Arthir33771			441		
+Arthir33891	K13998	DHFR-TS; dihydrofolate reductase / thymidylate synthase [EC:1.5.1.3 2.1.1.45]	143		
+Arthir34019	K00521	E1.16.1.7; ferric-chelate reductase [EC:1.16.1.7]	637		
+Arthir34602			42		
+Arthir34807	K10580	UBE2N, BLU, UBC13; ubiquitin-conjugating enzyme E2 N [EC:2.3.2.23]	97		
+Arthir3487	K01177	E3.2.1.2; beta-amylase [EC:3.2.1.2]	472		
+Arthir34					
+Arthir35287	K20309	TRAPPC12; trafficking protein particle complex subunit 12	304		
+Arthir35603	K11816	YUCCA; indole-3-pyruvate monooxygenase [EC:1.14.13.168]	312		
+Arthir36008			17		
+Arthir36546	K08967	mtnD, mtnZ, ADI1; 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54]	90		
+Arthir36754			273		
+Arthir3747			530		
+Arthir3748			503		
+Arthir37869			209		
+Arthir3812			11		
+Arthir38219	K05576	ndhE; NAD(P)H-quinone oxidoreductase subunit 4L [EC:7.1.1.2]	20		
+Arthir38353	K11826	AP2M1; AP-2 complex subunit mu-1	446		
+Arthir38546			83		
+Arthir3854			147		
+Arthir39278			3		
+Arthir39354			124		
+Arthir39440	K08869	ADCK, ABC1; aarF domain-containing kinase	455		
+Arthir39776			88		
+Arthir39797					
+Arthir39989			2		
+Arthir3	K20619	CYP78A; cytochrome P450 family 78 subfamily A	366		
+Arthir40289	K18081	MTMR1_2; myotubularin-related protein 1/2 [EC:3.1.3.64 3.1.3.95]	246		
+Arthir40504	K10357	MYO5; myosin V	1251		
+Arthir4144			125		
+Arthir41532			3		
+Arthir41925			428		
+Arthir41996	K08248	MDL3; (R)-mandelonitrile lyase [EC:4.1.2.10]	19		
+Arthir42294	K03627	MBF1; putative transcription factor	46		
+Arthir42462	K02962	RP-S17e, RPS17; small subunit ribosomal protein S17e	62		
+Arthir42508	K10268	FBXL2_20; F-box and leucine-rich repeat protein 2/20	74		
+Arthir42640			438		
+Arthir42747			184		
+Arthir43219			546		
+Arthir43403			178		
+Arthir43441	K06689	UBE2D, UBC4, UBC5; ubiquitin-conjugating enzyme E2 D [EC:2.3.2.23]	125		
+Arthir43465			28		
+Arthir43589	K04040	chlG, bchG; chlorophyll/bacteriochlorophyll a synthase [EC:2.5.1.62 2.5.1.133]	235		
+Arthir43621			7		
+Arthir43815	K17604	ZSWIM3; zinc finger SWIM domain-containing protein 3	12		
+Arthir43976	K02901	RP-L27e, RPL27; large subunit ribosomal protein L27e	129		
+Arthir4409			231		
+Arthir44106	K02256	COX1; cytochrome c oxidase subunit 1 [EC:7.1.1.9]	85		
+Arthir44182	K10960	chlP, bchP; geranylgeranyl diphosphate/geranylgeranyl-bacteriochlorophyllide a reductase [EC:1.3.1.83 1.3.1.111]	460		
+Arthir44219	K01184	E3.2.1.15; polygalacturonase [EC:3.2.1.15]	177		
+Arthir44286			15		
+Arthir44423	K00430	E1.11.1.7; peroxidase [EC:1.11.1.7]	24		
+Arthir44580			492		
+Arthir44614	K11583	PPP2R3; serine/threonine-protein phosphatase 2A regulatory subunit B''	408		
+Arthir44761	K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	185		
+Arthir45178	K11341	YEATS4, GAS41, YAF9; YEATS domain-containing protein 4	97		
+Arthir45456	K14662	NTAN1; protein N-terminal asparagine amidohydrolase [EC:3.5.1.121]	230		
+Arthir45459	K02921	RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae	84		
+Arthir45592			29		
+Arthir45745	K09872	PIP; aquaporin PIP	139		
+Arthir45923	K08057	CALR; calreticulin	241		
+Arthir46168			100		
+Arthir4825			590		
+Arthir4839	K23289	EIPR1, TSSC1; EARP and GARP complex-interacting protein 1	236		
+Arthir519			623		
+Arthir5792			173		
+Arthir639			15		
+Arthir6515			277		
+Arthir6538	K00784	rnz; ribonuclease Z [EC:3.1.26.11]	364		
+Arthir6776	K17609	NXN; nucleoredoxin [EC:1.8.1.8]	52		
+Arthir6865	K14328	UPF3, RENT3; regulator of nonsense transcripts 3	44		
+Arthir7038	K06268	PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit	160		
+Arthir7155			230		
+Arthir721	K07937	ARF1_2; ADP-ribosylation factor 1/2	88		
+Arthir7604	K01188	E3.2.1.21; beta-glucosidase [EC:3.2.1.21]	214		
+Arthir7685			157		
+Arthir8131	K05391	CNGC; cyclic nucleotide gated channel, plant	18		
+Arthir8280			112		
+Arthir8650	K03676	grxC, GLRX, GLRX2; glutaredoxin 3	14		
+Arthir9190			48		
+Arthir9306			31		
+Arthir9399	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	411		
+Arthir9417			82		
+Arthir9847			288		
