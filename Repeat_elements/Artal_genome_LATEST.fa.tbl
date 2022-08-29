@@ -1,0 +1,59 @@
+==================================================
+file name: Artal_genome_LATEST.fa   
+sequences:         98152
+total length:  833038871 bp  (803832912 bp excl N/X-runs)
+GC level:         33.49 %
+bases masked:  505501259 bp ( 60.68 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       284863    261651786 bp   31.41 %
+   SINEs:              374       106317 bp    0.01 %
+   Penelope           4746      6324421 bp    0.76 %
+   LINEs:            12267      8360269 bp    1.00 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4          7521      2035848 bp    0.24 %
+   LTR elements:    272222    253185200 bp   30.39 %
+     BEL/Pao          1048       116439 bp    0.01 %
+     Ty1/Copia      122586    130956286 bp   15.72 %
+     Gypsy/DIRS1    104849    105485172 bp   12.66 %
+       Retroviral      122        64986 bp    0.01 %
+
+DNA transposons      30141     21715409 bp    2.61 %
+   hobo-Activator     9562      4081476 bp    0.49 %
+   Tc1-IS630-Pogo      150        60330 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger  1731      1222484 bp    0.15 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       8084      2623764 bp    0.31 %
+
+Unclassified:       715699    206652134 bp   24.81 %
+
+Total interspersed repeats:   490019329 bp   58.82 %
+
+
+Small RNA:             735       413766 bp    0.05 %
+
+Satellites:            217        93172 bp    0.01 %
+Simple repeats:     264406      9879546 bp    1.19 %
+Low complexity:      50839      2471682 bp    0.30 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in ".../Artalt-families.fa"
+FamDB: 

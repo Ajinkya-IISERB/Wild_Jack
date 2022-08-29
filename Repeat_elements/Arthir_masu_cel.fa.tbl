@@ -1,0 +1,59 @@
+==================================================
+file name: Arthir_masu_cel.fa       
+sequences:         59945
+total length:  796234690 bp  (794603465 bp excl N/X-runs)
+GC level:         33.83 %
+bases masked:  481838003 bp ( 60.51 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       249237    254467506 bp   31.96 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             5391      2520311 bp    0.32 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4          5391      2520311 bp    0.32 %
+   LTR elements:    243846    251947195 bp   31.64 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia      118831    128143499 bp   16.09 %
+     Gypsy/DIRS1     72184    102159502 bp   12.83 %
+       Retroviral     1864       577223 bp    0.07 %
+
+DNA transposons      25243     17626242 bp    2.21 %
+   hobo-Activator     5755      2862520 bp    0.36 %
+   Tc1-IS630-Pogo      164        67713 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger  2907      1633605 bp    0.21 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       3398      2110541 bp    0.27 %
+
+Unclassified:       726081    191697119 bp   24.08 %
+
+Total interspersed repeats:   463790867 bp   58.25 %
+
+
+Small RNA:             545       203419 bp    0.03 %
+
+Satellites:           2674      2508022 bp    0.31 %
+Simple repeats:     297309     10560074 bp    1.33 %
+Low complexity:      54798      2665080 bp    0.33 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in ".../Arthir-families.fa"
+FamDB: 

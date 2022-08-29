@@ -1,0 +1,59 @@
+==================================================
+file name: Arthe_genome_LATEST.fa   
+sequences:        108267
+total length:  982020585 bp  (930407178 bp excl N/X-runs)
+GC level:         34.76 %
+bases masked:  614329674 bp ( 62.56 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       439667    406026364 bp   41.35 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope             57         4210 bp    0.00 %
+   LINEs:             5667      2474624 bp    0.25 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4          5610      2470414 bp    0.25 %
+   LTR elements:    434000    403551740 bp   41.09 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia      238020    246530168 bp   25.10 %
+     Gypsy/DIRS1    110151    126902434 bp   12.92 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      22785     16327704 bp    1.66 %
+   hobo-Activator     4818      2287011 bp    0.23 %
+   Tc1-IS630-Pogo      144        35319 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger  2557      1595961 bp    0.16 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles       1854      1258007 bp    0.13 %
+
+Unclassified:       692227    174961534 bp   17.82 %
+
+Total interspersed repeats:   597315602 bp   60.83 %
+
+
+Small RNA:            4311      2715161 bp    0.28 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:     285226     10332742 bp    1.05 %
+Low complexity:      55998      2708162 bp    0.28 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , default mode
+                                     
+run with rmblastn version 2.11.0+
+The query was compared to classified sequences in ".../Arthet-families.fa"
+FamDB: 
