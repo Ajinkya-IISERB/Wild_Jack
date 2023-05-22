@@ -1,0 +1,9 @@
+Mutation rate estimated for three species of Artocarpus using d4 rates of the gene alignments.
+Species A.hirsutus  A.altilis A.heterophyllus	
+Mean  0.04606546  0.0516345 0.04743642
+Median	0.028845	0.0336	0.02999
+Divergence_time_with_closest_branch 15MYA 15MYA 37MYA
+Mutation_rate 3.071031e-09  3.4423e-09  1.282065e-09
+*Mutation rate is calculated by dividing mean of d4 estimate with Divergence time from the shared branch in the topology.
+For example: Tree for Gene ID Arthir37969:
+(Artocarpus_altilis:0.026798347,(Artocarpus_heterophyllus:0.0252149299,Morus_notabilis:0.1375155451)100:0.0060080258,Artocarpus_hirsutus:0.0256965284);
